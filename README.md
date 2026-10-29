@@ -33,7 +33,7 @@ A beginner-friendly AI chatbot built using Python, Streamlit and Ollama, with su
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/kumaaaar/My-AI-chatbot
    cd my-ai-chatbot
    ```
 
