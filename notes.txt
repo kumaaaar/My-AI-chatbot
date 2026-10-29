@@ -1,0 +1,5 @@
+Python is a programming language.
+Ollama lets you run AI models locally.
+Streamlit helps build web apps using Python.
+RAG retrieves relevant information from documents
+and provides it to an AI model to answer questions.
